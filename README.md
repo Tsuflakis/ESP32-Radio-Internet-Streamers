@@ -1,5 +1,6 @@
 
-**Interested in building your own? Firmware, DIY kits, and fully assembled Internet Radio Units are available at:** [https://tmicromaker.com/](https://tmicromaker.com/)
+**Interested in building your own?**
+**Firmware, DIY kits, and fully assembled Internet Radio Units are available at:** [https://tmicromaker.com/](https://tmicromaker.com/)
 
 
 This is a fully functional Internet Radio Based on ESP32-S3
