@@ -1,5 +1,5 @@
 {
   "version": "V1.5.5",
   "url": "https://github.com/MicroMkr/ESP32-Radio-Internet-Streamers/releases/download/V1.5.5/radio_firmware_V1.5.5.enc",
-  "changelog": "Fix the competability of Rotary Encoder with the TouchScreen"
+  "changelog": "Fix rotary encoder compatibility with touchscreen"
 }
